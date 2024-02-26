@@ -14,7 +14,7 @@
 }
 
 body{
-    background-color: yellow;
+    background-color: $amarillo-eme;
 }
 
 a{
@@ -154,7 +154,6 @@ main{
             p{
               padding: 8px;
                 &:hover{
-                    color: $amarillo-eme;
                     background-color: black;
                     border-radius: 10%;
                     display: inline-block;
